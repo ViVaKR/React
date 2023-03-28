@@ -12,7 +12,8 @@
 
 # 시작 (Start)
 
-## [![node](https://nodejs.org/static/images/logo.svg)](https://nodejs.org/en)
+[![node](https://nodejs.org/static/images/logo.svg)](https://nodejs.org/en)
+
 ```bash
     $ npx create-react-app my-app
     $ cd my-app
@@ -21,6 +22,5 @@
     # 기타 사용 가능한 명령어들 : $ npm run build, $ npm test, $ npm run eject
 ```
 
-## 시작파일 : src/index.js
-## 
+#### 진입점 : src/index.js 
 
